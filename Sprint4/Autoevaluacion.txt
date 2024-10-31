@@ -1,0 +1,11 @@
+Robusto: 2
+Claridad y orden: 2
+Indentaciones: 2
+Comentarios: 2
+Variables: 2
+Correcto: 2
+Corrección en entrega: 2
+-------
+Puntuación final: 10
+-------
+(Todo esto hace referencia al archivo S05_ElenchevG.java)
