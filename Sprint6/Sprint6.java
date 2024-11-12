@@ -4,21 +4,21 @@ public class Sprint6 {
 
     public static void main(String[] args) {
         // Inicializacion de constantes
-        int min_id = 111;
-        int max_id = 999;
-        int min_edad = 14;
-        int max_edad = 120;
-        int min_tipo_venta = 0;
-        int max_tipo_venta = 3;
-        int min_importe_compra = 0;
-        int max_importe_compra = 1000;
-        int min_telefono = 111111111;
-        int max_telefono = 999999999;
+        final int min_id = 111;
+        final int max_id = 999;
+        final int min_edad = 14;
+        final int max_edad = 120;
+        final int min_tipo_venta = 0;
+        final int max_tipo_venta = 3;
+        final int min_importe_compra = 0;
+        final int max_importe_compra = 1000;
+        final int min_telefono = 111111111;
+        final int max_telefono = 999999999;
 
-        String ntipos0 = "Libre";
-        String ntipos1 = "Pensionista";
-        String ntipos2 = "Carnet joven";
-        String ntipos3 = "Socio";
+        final String ntipos0 = "Libre";
+        final String ntipos1 = "Pensionista";
+        final String ntipos2 = "Carnet joven";
+        final String ntipos3 = "Socio";
 
         // Inicializacion de variables
         int id=0, edad=0, tipo_venta=0, importe_compra=0, telefono=0;
